@@ -1,0 +1,15 @@
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\bin\Debug\net6.0\kino_reservation.exe
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\bin\Debug\net6.0\kino_reservation.deps.json
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\bin\Debug\net6.0\kino_reservation.runtimeconfig.json
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\bin\Debug\net6.0\kino_reservation.dll
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\bin\Debug\net6.0\kino_reservation.pdb
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.csproj.AssemblyReference.cache
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.dll
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\refint\kino_reservation.dll
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.pdb
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\kino_reservation.genruntimeconfig.cache
+C:\Users\micha\Source\Repos\bluuo\berufsschule\kino_reservation\obj\Debug\net6.0\ref\kino_reservation.dll
