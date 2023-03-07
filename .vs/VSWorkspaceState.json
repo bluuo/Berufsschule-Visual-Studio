@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kino_reservation",
+    "\\tryCatch"
   ],
+  "SelectedNode": "\\tryCatch\\obj",
   "PreviewInSolutionExplorer": false
 }
