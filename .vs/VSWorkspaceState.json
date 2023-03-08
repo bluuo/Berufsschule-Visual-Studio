@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kino_reservation"
   ],
-  "SelectedNode": "\\rekursion",
+  "SelectedNode": "\\kino_reservation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,11 +1,11 @@
 ﻿using System;
 
-class Program  
+class Program
 {
-    static void Main(string[] args)
+static void Main(string[] args)
     {
         Reservierungssystem rs = new Reservierungssystem();
-        Console.WriteLine(rs.freieSitze(3));
+        //Console.WriteLine(rs.freieSitze(3));
         Console.ReadKey();
     }
 }
@@ -35,16 +35,19 @@ class Reservierungssystem
             Console.WriteLine();
         }
         Console.ForegroundColor = ConsoleColor.White;
-
-        Console.Write("Wie viele Sitz möchten Sie reservieren?");
         Console.WriteLine();
+        Console.Write("Wie viele Sitz möchten Sie buchen?");
+        Console.WriteLine();
+
         string anzahlSitzeString = Console.ReadLine();
         int anzahlSitze = Convert.ToInt32(anzahlSitzeString);
+
         int anfangSitze = freieSitze(anzahlSitze);
+
         if (anfangSitze == 0)
             Console.Write("Leider konnten wir keine Plätze für Sie finden.");
         else
-            Console.Write("Ihre Sitze fangen bei " + anfangSitze + " an.");
+            Console.Write("Ihre Sitzplätze sind " + anfangSitze + "-" + anfangSitze+anzahlSitze + " .");
 
         Console.WriteLine();
 
@@ -55,22 +58,27 @@ class Reservierungssystem
         int freiNebereinander = 0;
         for (int reihe = 0; reihe < 7; reihe++)
         {
-
             for (int sitz = 0; sitz < 30; sitz++)
             {
-
+                //Check if the seat is available
                 if (kino[reihe, sitz])
                 {
+                    //Increase the number of free seats next to each other
                     freiNebereinander++;
+                    //Check if the number of free seats next to each other is equal to the number of seats requested
                     if (freiNebereinander == anzahlSitze)
+                    {
+                        //Return the seat number of the first seat in the row
                         return ((reihe + 1) * 100 + sitz - anzahlSitze + 2);
+                    }
+                    //If the seat is not available
                 }
                 else
                 {
+                    //Reset the number of free seats next to each other
                     freiNebereinander = 0;
                 }
             }
-
         }
         return 0;
     }
