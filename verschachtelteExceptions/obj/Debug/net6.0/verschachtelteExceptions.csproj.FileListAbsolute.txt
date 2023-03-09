@@ -1,0 +1,15 @@
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\bin\Debug\net6.0\verschachtelteExceptions.exe
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\bin\Debug\net6.0\verschachtelteExceptions.deps.json
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\bin\Debug\net6.0\verschachtelteExceptions.runtimeconfig.json
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\bin\Debug\net6.0\verschachtelteExceptions.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\bin\Debug\net6.0\verschachtelteExceptions.pdb
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.csproj.AssemblyReference.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\refint\verschachtelteExceptions.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.pdb
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\verschachtelteExceptions.genruntimeconfig.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\obj\Debug\net6.0\ref\verschachtelteExceptions.dll
