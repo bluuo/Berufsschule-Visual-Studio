@@ -60,22 +60,16 @@ class Reservierungssystem
         {
             for (int sitz = 0; sitz < 30; sitz++)
             {
-                //Check if the seat is available
                 if (kino[reihe, sitz])
                 {
-                    //Increase the number of free seats next to each other
                     freiNebereinander++;
-                    //Check if the number of free seats next to each other is equal to the number of seats requested
                     if (freiNebereinander == anzahlSitze)
                     {
-                        //Return the seat number of the first seat in the row
                         return ((reihe + 1) * 100 + sitz - anzahlSitze + 2);
                     }
-                    //If the seat is not available
                 }
                 else
                 {
-                    //Reset the number of free seats next to each other
                     freiNebereinander = 0;
                 }
             }
