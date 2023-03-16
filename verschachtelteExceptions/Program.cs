@@ -26,28 +26,32 @@ class Division
     static int zero = 0;
     public Division()
     {
+
+
+        //Try to divide by zero
         try
         {
             int j = 1 / zero;
         }
-
-
-        //this code is handling a dividebyzeroexception. it attempts to write the exception 
-        //to a file, but if that fails, it throws a new dividebyzeroexception with 
-        //the original message and the inner exception as parameters. finally,
-        //it closes the streamwriter if it is not null.
+        //Catch the DivideByZeroException
         catch (DivideByZeroException dbze)
         {
+            //Create a StreamWriter object
             StreamWriter sw = null;
             try
-            {   // Exception handling schlägt fehl (* im Dateinamen)!
+            {
+                //Create a file with an invalid name
                 sw = new StreamWriter("ungültig*txt");
+                //Write the exception to the file
                 sw.Write(dbze);
             }
+            //Catch any other exceptions
             catch (Exception e)
-            {   // Exception erneut werfen mit Parameter innerException
+            {
+                //Throw a new DivideByZeroException with the innerException parameter
                 throw new DivideByZeroException(dbze.Message, e);
             }
+            //Close the StreamWriter object
             finally
             {
                 if (sw != null)

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kino"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\kino\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
