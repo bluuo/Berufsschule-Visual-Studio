@@ -47,7 +47,7 @@ class Reservierungssystem
         if (anfangSitze == 0)
             Console.Write("Leider konnten wir keine Plätze für Sie finden.");
         else
-            Console.Write("Ihre Sitzplätze sind " + anfangSitze + "-" + anfangSitze+anzahlSitze + " .");
+            Console.Write("Ihre Sitzplätze sind " + anfangSitze + "-" + (anfangSitze+anzahlSitze-1) + " .");
 
         Console.WriteLine();
 

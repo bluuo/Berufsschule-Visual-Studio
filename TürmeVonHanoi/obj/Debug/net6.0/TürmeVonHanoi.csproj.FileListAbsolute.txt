@@ -1,0 +1,15 @@
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\bin\Debug\net6.0\TürmeVonHanoi.exe
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\bin\Debug\net6.0\TürmeVonHanoi.deps.json
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\bin\Debug\net6.0\TürmeVonHanoi.runtimeconfig.json
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\bin\Debug\net6.0\TürmeVonHanoi.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\bin\Debug\net6.0\TürmeVonHanoi.pdb
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.csproj.AssemblyReference.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\refint\TürmeVonHanoi.dll
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.pdb
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\TürmeVonHanoi.genruntimeconfig.cache
+C:\Users\micha\Source\Repos\bluuo\Berufsschule\TürmeVonHanoi\obj\Debug\net6.0\ref\TürmeVonHanoi.dll

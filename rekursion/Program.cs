@@ -20,7 +20,7 @@ namespace first_recursion
             }
             else
             {
-                int r = faculty(i - 1);
+                int r = i + faculty(i - 1);
                 return r;
             };
         }
