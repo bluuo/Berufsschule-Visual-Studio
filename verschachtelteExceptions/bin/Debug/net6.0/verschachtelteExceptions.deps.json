@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "verschachtelteExceptions/1.0.0": {
+      "VerschachtelteExceptions/1.0.0": {
         "runtime": {
-          "verschachtelteExceptions.dll": {}
+          "VerschachtelteExceptions.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "verschachtelteExceptions/1.0.0": {
+    "VerschachtelteExceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

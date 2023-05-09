@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\verschachtelteExceptions\\verschachtelteExceptions.csproj",
-      "projectName": "verschachtelteExceptions",
-      "projectPath": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\verschachtelteExceptions\\verschachtelteExceptions.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\VerschachtelteExceptions\\VerschachtelteExceptions.csproj",
+      "projectName": "VerschachtelteExceptions",
+      "projectPath": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\VerschachtelteExceptions\\VerschachtelteExceptions.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\verschachtelteExceptions\\obj\\",
+      "outputPath": "C:\\Users\\micha\\Source\\Repos\\bluuo\\Berufsschule\\VerschachtelteExceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

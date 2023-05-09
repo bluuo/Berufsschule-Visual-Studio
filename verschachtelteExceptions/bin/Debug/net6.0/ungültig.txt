@@ -1,2 +1,0 @@
-System.DivideByZeroException: Attempted to divide by zero.
-   at Division..ctor() in C:\Users\micha\Source\Repos\bluuo\Berufsschule\verschachtelteExceptions\Program.cs:line 31
