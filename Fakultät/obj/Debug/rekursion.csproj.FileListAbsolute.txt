@@ -1,8 +1,0 @@
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\bin\Debug\rekursion.exe.config
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\bin\Debug\rekursion.exe
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\bin\Debug\rekursion.pdb
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\obj\Debug\rekursion.csproj.AssemblyReference.cache
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\obj\Debug\rekursion.csproj.SuggestedBindingRedirects.cache
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\obj\Debug\rekursion.csproj.CoreCompileInputs.cache
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\obj\Debug\rekursion.exe
-C:\Users\micha\Source\Repos\bluuo\Berufsschule\rekursion\obj\Debug\rekursion.pdb
