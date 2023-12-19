@@ -1,0 +1,15 @@
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\bin\Debug\net8.0\Radixsort.exe
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\bin\Debug\net8.0\Radixsort.deps.json
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\bin\Debug\net8.0\Radixsort.runtimeconfig.json
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\bin\Debug\net8.0\Radixsort.dll
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\bin\Debug\net8.0\Radixsort.pdb
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.sourcelink.json
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.dll
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\refint\Radixsort.dll
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.pdb
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\Radixsort.genruntimeconfig.cache
+C:\Users\micha\Source\Repos\Berufsschule-Visual-Studio\Radixsort\obj\Debug\net8.0\ref\Radixsort.dll
